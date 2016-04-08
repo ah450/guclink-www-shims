@@ -1,0 +1,17 @@
+{
+  "name": "guclink-www-shims",
+  "homepage": "https://github.com/ah450/guclink-www-shims",
+  "authors": [
+    "Ahmed H. Ismail <ahm3d.hisham@gmail.com>"
+  ],
+  "description": "Shims, Polyfills and prototype extensions for guclink web apps",
+  "main": "prototypes.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
